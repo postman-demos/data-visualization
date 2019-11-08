@@ -1,61 +1,66 @@
 - caption_title: API Requests
-  caption_text: [Needs Text]
+  caption_text: Using Postman, you can make requests to an API, defining the details of each request, then sending when complete.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-1-api-request.png
   tooltip_show: 1
   tooltip_text: Request
   tooltip_width: 160px
-  tooltip_margin_top: 110px
-  tooltip_margin_left: 460px
+  tooltip_margin_top: 115px
+  tooltip_margin_left: 660px
   tooltip_direction: left
+  caption_width: 40
 - caption_title: API Response
-  caption_text: [Needs Text]
+  caption_text: You can view the response, seeing the body, cookies, headers, and other details of the request being made.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-2-api-response.png
   tooltip_show: 1
   tooltip_text: Response
   tooltip_width: 160px
-  tooltip_margin_top: 110px
-  tooltip_margin_left: 460px
+  tooltip_margin_top: 370px
+  tooltip_margin_left: 790px
   tooltip_direction: left
+  caption_width: 35
 - caption_title: Visualization Scripts
-  caption_text: [Needs Text]
+  caption_text: Using the Postman test scripts you can write JavaScript that can render a visualization derived from each response.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-3-api-script-javascript.png
   tooltip_show: 1
   tooltip_text: Script
   tooltip_width: 160px
-  tooltip_margin_top: 110px
-  tooltip_margin_left: 460px
+  tooltip_margin_top: 165px
+  tooltip_margin_left: 810px
   tooltip_direction: left
+  caption_width: 40
 - caption_title: Visualization CSS
-  caption_text: [Needs Text]
+  caption_text: Define the CSS that will shape the visualization, providing the presentation layer to be applied to each response.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-4-api-script-css.png
   tooltip_show: 1
   tooltip_text: Define
   tooltip_width: 160px
-  tooltip_margin_top: 110px
-  tooltip_margin_left: 460px
+  tooltip_margin_top: 270px
+  tooltip_margin_left: 800px
   tooltip_direction: left
+  caption_width: 40
 - caption_title: Visualization HTML
-  caption_text: [Needs Text]
+  caption_text: Define the HTML that will shape the visualization, providing the presentation layer to be applied to each response.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-5-api-script-html.png
   tooltip_show: 1
   tooltip_text: Define
   tooltip_width: 160px
-  tooltip_margin_top: 110px
-  tooltip_margin_left: 460px
+  tooltip_margin_top: 230px
+  tooltip_margin_left: 680px
   tooltip_direction: left
+  caption_width: 40
 - caption_title: Bar Chart Visualization
-  caption_text: [Needs Text]
-  margin_right: 0
+  caption_text: View data as a bar chart visualization.
+  margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-visualization-6-api-view-bar-chart.png
   tooltip_show: 0
@@ -65,7 +70,7 @@
   tooltip_margin_left: 460px
   tooltip_direction: left
 - caption_title: View HTML Listing
-  caption_text: [Needs Text]
+  caption_text: View data as a HTML listing visualization.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-7-api-view-html.png
@@ -76,7 +81,7 @@
   tooltip_margin_left: 460px
   tooltip_direction: left
 - caption_title: Tag Cloud Visualization
-  caption_text: [Needs Text]
+  caption_text: View data as a tag cloud visualization.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-8-api-view-tag-cloud.png
@@ -87,7 +92,7 @@
   tooltip_margin_left: 460px
   tooltip_direction: left
 - caption_title: Heat Map Visualization
-  caption_text: [Needs Text]
+  caption_text: View data as a heat map visualization.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-9-api-view-heat-cloud.png
@@ -98,7 +103,7 @@
   tooltip_margin_left: 460px
   tooltip_direction: left
 - caption_title: Any Visualization
-  caption_text: [Needs Text]
+  caption_text: Or define any visualization you'd like to see from response.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-visualization-10-any.png
